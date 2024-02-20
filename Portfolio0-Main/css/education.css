@@ -46,10 +46,3 @@ a:hover {
     background-color: #0056b3;
 }
 
-/* Media Query for Responsive Design */
-@media (max-width: 768px) {
-    nav ul li {
-        display: block;
-        margin: 10px 0;
-    }
-}

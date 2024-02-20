@@ -14,7 +14,6 @@ body {
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
-/* Section Styles */
 section {
     margin-bottom: 20px;
 }
@@ -22,16 +21,12 @@ section {
 section h2 {
     margin-top: 0;
 }
-/* List Styles */
 ul {
     padding-left: 20px;
 }
 
-/* Media Query for Responsive Design */
-@media (max-width: 768px) {
-    nav ul li {
-        display: block;
-        margin: 10px 0;
-    }
+p {
+    text-align: justify;
 }
+
 
